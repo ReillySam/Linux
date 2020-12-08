@@ -10,6 +10,7 @@ name=$(whoami)
 uid=$(id -u)
 time=$(date)
 
+
 #Functions to run menu options
 
 #Option 1, edit a file ---------------------
