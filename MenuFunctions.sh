@@ -83,6 +83,7 @@ systemCheck(){
 }
 
 
+
 #Option 6, perform manual backup/transfer ---------------------
 manualTasks(){
 	echo "Press 'b' for Backup or 't' for Transfer"
